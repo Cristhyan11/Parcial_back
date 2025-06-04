@@ -2,7 +2,7 @@
 
 Este proyecto es el backend del sistema de gestión de roles y usuarios. Está construido con **Node.js + Express** y utiliza **MongoDB** como base de datos.
 
-## 📦 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - Node.js
 - Express
