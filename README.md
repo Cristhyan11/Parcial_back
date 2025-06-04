@@ -18,11 +18,8 @@ Este es el proyecto backend construido con **Node.js + Express + MongoDB**. Prop
 | GET    | `/roles`     | Lista todos los roles                    |
 | POST   | `/users`     | Crea un nuevo usuario con rol asignado   |
 | GET    | `/users`     | Lista todos los usuarios con su rol      |
+
 https://.postman.co/workspace/My-Workspace~6ca29c52-839e-433a-8769-e58798045f72/collection/39178678-579bd978-d58c-4813-ac80-2efe4b669ff7?action=share&creator=39178678
-
-## ⚙️ Variables de entorno
-
-Crea un archivo `.env` con la siguiente estructura:
 
 
 ## ▶️ Instrucciones para correr
