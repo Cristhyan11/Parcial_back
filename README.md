@@ -11,4 +11,3 @@ Este proyecto es el backend del sistema de gestión de roles y usuarios. Está c
 - Dotenv
 - CORS
 
-#Hecho por cristhyan Camilo Vera Arroyo
